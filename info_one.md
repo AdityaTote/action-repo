@@ -71,4 +71,3 @@ Our AI-driven platform ensures:
 - High adaptability  
 
 Making it ideal for industries like **finance, healthcare, manufacturing**, and beyond.
-
